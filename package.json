@@ -1,0 +1,8 @@
+{
+    "name": "contact-form-frontend",
+    "version": "1.0.0",
+    "description": "Contact form frontend",
+    "scripts": {
+      "start": "npx serve"
+    }
+  }
